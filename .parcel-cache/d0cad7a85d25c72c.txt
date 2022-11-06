@@ -52,7 +52,7 @@
 78D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\css-tree\dist133122280692529654 1
 63D:\a\Projects\go_it\_second_attempt\learning-parcel\.htmlnanorc133106784810000000 0
 93D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\css-tree\lib\syntax\function133122280696930635 1
-56D:\a\Projects\go_it\_second_attempt\learning-parcel\dist133122292481095548 1
+56D:\a\Projects\go_it\_second_attempt\learning-parcel\dist133122302080836904 1
 87D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\immutable\package.json133122280688968846 0
 116D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js.map133122280686188229 0
 110D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\caniuse-lite\data\features\permissions-api.js133122280700741489 0
@@ -164,7 +164,7 @@
 141D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-exclude133122280695970425 1
 96D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\fast-glob\out\providers\sync.js133122280691449413 0
 95D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\yaml\browser\dist\package.json133122280693649900 0
-77D:\a\Projects\go_it\_second_attempt\learning-parcel\src\partials\example.html133122290911130643 0
+77D:\a\Projects\go_it\_second_attempt\learning-parcel\src\partials\example.html133122300312211978 0
 96D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\caniuse-lite\data\regions\MW.js133122280700381409 0
 93D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\fast-glob\out\utils\index.js133122280689448960 0
 69D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\.bin133122280704052234 1
@@ -3934,7 +3934,7 @@
 108D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133122280692049545 0
 108D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\workers\lib\process\ProcessChild.js133122280691219358 0
 86D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\graph\LICENSE133122280682867481 0
-74D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.975ef6c8.js133122292481021669 0
+74D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.975ef6c8.js133122302080616876 0
 143D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\b133122280692969752 1
 92D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\watcher\binding.gyp133122280689919064 0
 91D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\watcher\index.d.ts133122280694490092 0
@@ -4131,7 +4131,7 @@
 113D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\core\src\requests\ParcelConfigRequest.js133122280696360508 0
 110D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133122280686148220 0
 102D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\resolver-default\package.json133122280685057976 0
-78D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.975ef6c8.js.map133122292481055553 0
+78D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.975ef6c8.js.map133122302080646890 0
 112D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133122280683647652 0
 105D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\reporter-dev-server\package.json133122280690869274 0
 96D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\@parcel\reporter-dev-server\src133122280690639222 1
@@ -4683,7 +4683,7 @@
 76D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\.bin\semver133122280704022229 0
 80D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\.bin\semver.cmd133122280704022229 0
 80D:\a\Projects\go_it\_second_attempt\learning-parcel\node_modules\.bin\semver.ps1133122280704022229 0
-75D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.b07a87f3.css133122280878767847 0
-79D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.b07a87f3.css.map133122280878927873 0
-67D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.html133122280878767847 0
-74D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\logo.c493797d.png133122280878967883 0
+75D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.b07a87f3.css133122302080616876 0
+79D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.b07a87f3.css.map133122302080616876 0
+67D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\index.html133122301793952812 0
+74D:\a\Projects\go_it\_second_attempt\learning-parcel\dist\logo.c493797d.png133122302080616876 0
